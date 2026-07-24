@@ -222,3 +222,6 @@ sample/
 
 # Claude Code
 .claude/
+
+# Generated DMARC HTML reports
+*.html
